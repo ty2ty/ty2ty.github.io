@@ -2,8 +2,9 @@ title:              Clean Blog
 email:              your-email@example.com
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
-baseurl:            "https://github.com/ty2ty/ty2ty.github.io/"
+baseurl:            ""
 url:                "https://ty2ty.github.io"
+remote_theme : jekyll-theme-clean-blog
 
 # Social Profiles
 twitter_username:   SBootstrap
